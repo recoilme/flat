@@ -1,4 +1,4 @@
-module /Users/recoilme/go/src/github.com/recoilme/flat/app/desktop
+module github.com/recoilme/flat/desktop
 
 go 1.12
 
